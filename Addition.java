@@ -2,10 +2,10 @@ class Addition
 {
 	public static void main(String[] args) 
 	{
-		byte a=10;
-		byte b=2;
-		int ans=a+b;
+		byte p=12;
+		byte q=3;
+		int res=a+b;
 		System.out.println("Adition is: ");
-		System.out.println(ans);
+		System.out.println(res);
 	}
 }
