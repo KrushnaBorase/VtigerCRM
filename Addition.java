@@ -4,7 +4,7 @@ class Addition
 	{
 		byte p=12;
 		byte q=3;
-		int res=a+b;
+		int res=p+q;
 		System.out.println("Adition is: ");
 		System.out.println(res);
 	}
